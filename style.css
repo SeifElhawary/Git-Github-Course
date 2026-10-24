@@ -1,4 +1,7 @@
-body{
-    width: 100vw;
-    object-fit: cover;
+h1{
+    color: red;
+    width: 100%;
+}
+a{
+    text-align: center;
 }
